@@ -1,0 +1,12 @@
+.screen{
+    height: 10rem;
+    width: 92%;
+    text-align:center;
+    font-size: 5rem;
+    border: 0.2rem solid gray;
+    border-radius: 1rem;
+    display:flex;
+    align-items: center;
+    /* flex-wrap: wrap; */
+
+}

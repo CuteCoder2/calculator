@@ -1,0 +1,14 @@
+.Buttons{
+    width:8rem ;
+    height:3rem;
+    border-radius: 0.3rem;
+    font-weight: bolder;
+    border: 3px solid rgb(33, 43, 36);
+    text-align: center;
+    margin: 1rem;
+    font-size:xx-large;
+    color: #fff;
+}
+.Buttons:active{
+    filter: opacity(0.1);
+}
